@@ -51,10 +51,3 @@
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{fariaabid}/count.svg)
-
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
-
-<img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
--->
