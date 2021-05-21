@@ -35,7 +35,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=fariaabid&show_icons=true"/>
+<img width="550px" alt="faria abid Github Stats"  src="https://github-readme-stats.vercel.app/api?username=fariaabid&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=fariaabid&card_width=550)](https://github.com/fariaabid/fariaabid)
 
